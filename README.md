@@ -1,6 +1,7 @@
 # BackFive Boilerplate
 
 Lightweight framework (less than 800kB) focused on simplicity, performance and compatibility with PHP since 5.3 version.
+BackFive Boilerplate has [Slim2](https://www.slimframework.com/docs/v2/index.html), [Plates3](http://platesphp.com/v3/), [Paris Active Record](https://github.com/j4mie/paris) and [Bulma CSS framework](https://bulma.io/).
 
 ## Installation
 
